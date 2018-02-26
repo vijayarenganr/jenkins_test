@@ -32,6 +32,10 @@
   * go inside to the product-service project folder
   * then run ``` mvn clean package ```
   * then run ``` java -jar target\product-service-0.0.1-SNAPSHOT.jar ```
+  
+  
+  ### test 
+  did the build run
 
 
   
