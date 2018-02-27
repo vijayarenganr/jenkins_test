@@ -27,3 +27,4 @@ node {
       archiveArtifacts 'api-gateway/*.jar'
    }
 }
+// shud initate a job auto
