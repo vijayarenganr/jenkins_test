@@ -25,5 +25,6 @@ node {
       //junit '**/target/surefire-reports/TEST-*.xml'
       //archive 'target/*.jar'
       archiveArtifacts 'api-gateway/target/*.jar'
+      sh 'echo /tmp/testfile.txt'
    }
 }
